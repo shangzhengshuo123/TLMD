@@ -1,0 +1,3 @@
+想要改变层数将对应的*DGP.py直接重命名为DGP.py即可
+test_DGP1.py为读取CSV格式文件接口
+test_DGP.py为读取MNIST格式文件接口(文件存放位置为
